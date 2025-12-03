@@ -10,6 +10,7 @@
     "lint": "expo lint --fix"
   },
   "dependencies": {
+    "@expo/vector-icons": "^15.0.3",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.4",
     "expo": "~54.0.25",
@@ -22,6 +23,7 @@
     "@types/react": "~19.1.0",
     "eslint": "^9.0.0",
     "eslint-config-expo": "~10.0.0",
+    "eslint-plugin-react-native": "^5.0.0",
     "typescript": "~5.9.2"
   },
   "private": true
